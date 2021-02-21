@@ -1,0 +1,3 @@
+Povezati Firebase i Android projekt. U Android aplikaciji napraviti activity za registraciju i login. Ukoliko je user uspješno autenticiran preusmjeri se na activity sa RecyclerView-om koji će prikazivati sve predmete iz baze podataka (i to samo naziv predmeta). RecyclerView se treba ažurirati kada dodje do promjene u podacima na strani baze. 
+Klikom na jednu ćeliju koja se nalazi u RecyclerView-u, otvara se novi Activity u kojem se nalaze detalji o predmetu  (ime predavača i na kojoj je godini). U tom Activity-u navedene podatke se može izmijeniti i izmijenjene spremiti u bazu pritiskom na botun „save“. 
+
